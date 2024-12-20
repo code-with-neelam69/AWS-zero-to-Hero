@@ -1,1 +1,18 @@
-day 2  what is aws waf ?
+day 2  what is aws waf ? AWS FIRWALL?
+ IT is a tool that protects web applications from common web exploits and malicious bots
+how does it works 
+ aws waf  alloys you to configure rules that monitor block or allow web request based on condition s you define 
+these condition can include IP  address , HTTP, headers ,httpboy ,URI strings,Sql injection and cross site scripting 
+what it protect ?
+aws waf protects resources such as 
+1 amazone cloudfront distribution 
+amazone api gateway distributions.
+amazon api gateway rest api 
+applications load balancers 
+aws appsync graph ql apis
+how it manages rquests -as waf csn msnsger mstching requests in a variety of ways including;
+counting them.
+blockingor allowing them,sendig challanges like CAPTCHA puzzles to the client user or browsers
+where it can be deployed?
+aws waf can be deployed an amazone cloud front and application load valancer to safeguard application in the cloud or on -premises 
+
