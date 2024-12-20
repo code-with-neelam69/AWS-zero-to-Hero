@@ -28,7 +28,13 @@ example - 1 aws elastic beanstalk - simplify application deploymnets  by handlin
 aws eks
 6 amazone s3 - a cloud based  offering provided completed data stack ,except for ETLor BI.
 aws lambda - a paas offereing that only runs in response to trigger making it more cost effective 
-
+saas - example - 1amazone elastic compute cloud provide scable compute capcity is the cloud for  provisioning and monitoring virtual servers .
+2amazone dynamo DB a fast  flexible no sql and database services for storing and retrivieving 
+3 a cloud guru  online cloud training  [latform 
+ 4 hubspot B2b  saas  product that offers marketing  sales services products for businessess .
+ amazone lastic beanstslk  a simple way to deploy and manage web application in cloud .
+ aws lambda  a serverless compute program
+ 
 
 
 
