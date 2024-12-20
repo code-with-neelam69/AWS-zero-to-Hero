@@ -15,4 +15,6 @@ counting them.
 blockingor allowing them,sendig challanges like CAPTCHA puzzles to the client user or browsers
 where it can be deployed?
 aws waf can be deployed an amazone cloud front and application load valancer to safeguard application in the cloud or on -premises 
-
+example of rules - here are some example of rules you can create eith aws waf 
+regular rule -protect the application from sql injection attack ny chrking if the url path  contain as sqk injections
+RATE based rele-balks respect mode from thed=same ip address after they exceed a certain linikts in a tome peroid 
